@@ -2,4 +2,6 @@ Esta es la historia de Claudia OChoa
 
 Claudia OChoa tiene 51 años y nacio en Colombia
 
-Hoy hablaremos de su historia.
+Mañana nos enfocaremos en su vida laboral
+
+Esto es una practica de la clase para interiorizar lo aprendido con git
